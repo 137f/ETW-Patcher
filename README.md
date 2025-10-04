@@ -57,10 +57,10 @@ Execute o `ETW-Patcher.exe` via linha de comando, passando o número do comando 
 
 ## 🖼️ Imagens de exemplo  
 
-![image](https://raw.githubusercontent.com/137f/PE-Explorer/refs/heads/main/Images/1.png)  
-![image](https://raw.githubusercontent.com/137f/PE-Explorer/refs/heads/main/Images/2.png)  
-![image](https://raw.githubusercontent.com/137f/PE-Explorer/refs/heads/main/Images/3.png)  
-![image](https://raw.githubusercontent.com/137f/PE-Explorer/refs/heads/main/Images/4.png)  
+![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/0.png)  
+![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/1.png)  
+![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/2.png)  
+![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/3.png)  
 
 ---
 
